@@ -9,7 +9,7 @@
 
 
 
-실행 화면은 아래 동영상을 참고해주세요~
+실행 화면은 아래 동영상을 참고해주세요
 
 
 https://user-images.githubusercontent.com/113905712/235563321-1ea50041-d181-4768-b6e1-be551ee98075.mp4
